@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bts654v3fakpe"
+path="res://.godot/imported/Bipedal Mech.mp3-e81e710118c9244ef0c23f5a9f73bd16.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sideview Sci-Fi - Patreon Collection/Music/music bipedal mech/Bipedal Mech.mp3"
+dest_files=["res://.godot/imported/Bipedal Mech.mp3-e81e710118c9244ef0c23f5a9f73bd16.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

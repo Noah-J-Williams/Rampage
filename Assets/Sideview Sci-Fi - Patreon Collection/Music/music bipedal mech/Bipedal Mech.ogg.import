@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://rkyo2ipsfe2n"
+path="res://.godot/imported/Bipedal Mech.ogg-29e845c108a0438d706c112364b08ad7.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sideview Sci-Fi - Patreon Collection/Music/music bipedal mech/Bipedal Mech.ogg"
+dest_files=["res://.godot/imported/Bipedal Mech.ogg-29e845c108a0438d706c112364b08ad7.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
