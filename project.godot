@@ -11,8 +11,13 @@ config_version=5
 [application]
 
 config/name="Rampage"
+run/main_scene="res://Scenes/root.tscn"
 config/features=PackedStringArray("4.0", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[display]
+
+window/stretch/scale=4.0
 
 [editor]
 
@@ -23,3 +28,4 @@ version_control/autoload_on_startup=true
 
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
+textures/canvas_textures/default_texture_filter=0
